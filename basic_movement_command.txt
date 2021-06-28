@@ -16,8 +16,10 @@ Welcome to VIM.
 
 
 
-Coding is fun.
 
+Coding is fun.
+What a wonderful world.
+Green is my favorite color.
 
 
 
