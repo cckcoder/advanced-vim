@@ -1,0 +1,41 @@
+Hello World
+
+I am a coder.
+
+Welcome to VIM.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Coding is fun.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vim is also fun.
