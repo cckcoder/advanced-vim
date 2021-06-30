@@ -1,0 +1,18 @@
+Let's listen for a word
+Then replace the word.
+Vim is not hard.
+
+
+longestwordwickhoutspace
+
+
+
+
+
+
+
+
+
+
+
+These words rhyme: kit, wit, pit!
